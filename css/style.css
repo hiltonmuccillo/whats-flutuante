@@ -1,0 +1,18 @@
+#whats-flutuante .text-footer-whats {
+    display: flex;
+    position: relative;
+    bottom: -66px;
+    margin-right: 100px;
+    padding: 0.7rem 1.1rem;
+    font-size: 0.75rem;
+    line-height: 14px;
+    color: #00205c;
+    font-weight: normal;
+    background-color: #fff;
+    border-radius: 12px;
+}
+
+.btn-whats-footer a {
+    display: block;
+    text-align: right;
+}
